@@ -1,1 +1,8 @@
 this is the file for the spec
+
+-website (develop into app in the future)
+-home page asks for location
+-ability to input menus (preferably as pdf)
+-filters for restaurants (e.g. cuisine)
+-search bar for on site dish search - if no results then link to search for "(insert dish) in (insert location)"
+-search results will show restaurants that have the dish and highlight the dish on the menu
